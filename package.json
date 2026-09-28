@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/weldchord",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weld URLs and chord query parts with stable normalization.",
+  "bin": {
+    "weldchord": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/weldchord.git"
+  },
+  "homepage": "https://theworker02.github.io/weldchord/",
+  "keywords": [
+    "weld",
+    "chord",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
